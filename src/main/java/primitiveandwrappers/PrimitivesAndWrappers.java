@@ -8,8 +8,8 @@ public class PrimitivesAndWrappers {
     public static short numberFromNegative32768To32767 = 10000;
     public static int numberFromNegative2147483648To2147483647 = 1000000000;
     public static long numberFromNegative9223372036854775808To9223372036854775807 = 100000000000000000L;
-    public static float numberWith6To7DecimalDigits = 1.1111111f;
-    public static double numberWith15DecimalDigits = 1.000000000000000d;
+    public static float numberWithUpTo7DecimalDigits = 1.1111111f;
+    public static double numberWithUpTo15DecimalDigits = 1.000000000000000d;
     public static boolean trueOrFalseValues = true;
     public static char singleChar = 'c';
 
